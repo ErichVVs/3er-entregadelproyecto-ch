@@ -1,10 +1,37 @@
 .img{
-    transition: all 1s;
+    transition: all .4s;
   }
   
 .img:hover{
     width: 380px;
     transform: translate(0px, -20px);
+}
+
+.img2{
+  transition: all .5s;
+}
+
+.img2:hover{
+  width: 340px;
+  transform: translate(25px, 0px);
+}
+
+.img3{
+  transition: all .3s;
+}
+
+.img3:hover{
+  width: 380px;
+  transform: translate(0px, -10px);
+}
+
+.img4{
+  transition: all 5s;
+}
+
+.img4:hover{
+  width: 880px;
+  transform: translate(5px, 0px);
 }
 
 .title{
