@@ -28,15 +28,6 @@
   transform: translate(0px, -20px);
 }
 
-.img2 {
-  transition: all .5s;
-}
-
-.img2:hover {
-  width: 340px;
-  transform: translate(25px, 0px);
-}
-
 .title {
   overflow-y: hidden;
 }
