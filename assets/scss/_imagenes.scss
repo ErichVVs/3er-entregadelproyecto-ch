@@ -2,7 +2,11 @@
     transition: all 1s;
   }
   
-  .img:hover{
+.img:hover{
     width: 380px;
     transform: translate(0px, -20px);
-  }
+}
+
+.title{
+  overflow-y: hidden;
+}

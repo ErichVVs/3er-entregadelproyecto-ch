@@ -28,13 +28,17 @@
   transform: translate(0px, -20px);
 }
 
+.title {
+  overflow-y: hidden;
+}
+
 .primercuadro {
   background-color: #221907;
   color: #fff;
 }
 
 * {
-  margin: 0;
+  Overflow-x: Hidden;
 }
 
 .logo {
@@ -47,7 +51,7 @@ a {
 }
 
 .navbar, footer {
-  background-color: #000;
+  background-color: #000 !important;
   color: whitesmoke;
 }
 
