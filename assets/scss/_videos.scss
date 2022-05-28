@@ -1,0 +1,15 @@
+#videointro{
+    position:fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    height: auto;
+    z-index: -100;
+    background-size: cover;
+}
+
+.fondotransparente{
+    height: 722px;
+    box-sizing: border-box;
+}

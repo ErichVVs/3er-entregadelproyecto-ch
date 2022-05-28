@@ -37,6 +37,10 @@
   color: #fff;
 }
 
+.fondoblanco {
+  background-color: #fff;
+}
+
 * {
   Overflow-x: Hidden;
 }
@@ -72,5 +76,21 @@ a {
   .ocultarSm {
     display: none;
   }
+}
+
+#videointro {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  height: auto;
+  z-index: -100;
+  background-size: cover;
+}
+
+.fondotransparente {
+  height: 722px;
+  box-sizing: border-box;
 }
 /*# sourceMappingURL=stylesheet.css.map */
